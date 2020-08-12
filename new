@@ -1,0 +1,76 @@
+<section class="bg-white p-5">
+    <div class="container">
+        <h1 class="text-center p-3">Experiences</h1>
+        <div class="row">
+          <a href="https://rashidaljabrigroup.com/#/" style="text-decoration: none;">
+            <div class="col-md-4">
+                <div class="card text-center" style="width: 18rem;height: 20em;">
+                    <img src="images/rashid.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Rashid al Jabri Group of Companies</h5>
+                      <p class="card-text">IT Support Engineer</p>
+                    </div>
+                  </div>
+            </div>
+
+            <a href="http://qubisinfoway.com/" style="text-decoration: none;">
+            <div class="col-md-4">
+                <div class="card text-center" style="width: 18rem;height: 20em;">
+                    <img src="images/qubis1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Qubis Technologies </h5>
+                      <p class="card-text">Web Designer</p>
+                    </div>
+                  </div>
+            </div>
+          </a>
+
+          <a href="https://www.fcriindia.com/" style="text-decoration: none;">
+            <div class="col-md-4">
+                <div class="card text-center" style="width: 18rem;height: 20em;">
+                    <img src="images/fcri.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Fluid Control Research institute</h5>
+                      <p class="card-text">IT Trainee</p>
+                    </div>
+                  </div>
+            </div>
+          </a>
+        </div>
+    </div>
+</section>
+
+
+
+<header class="bg-info">
+    <div class="row text-white">
+        <div class="col-md-6 col-9 p-3 pl-5">
+            <h2>REMYA SAJEESH</h2>
+        </div>
+
+        <div class="col-md-6 col-3 my-auto">
+            <nav class="navbar navbar-expand-lg navbar-light bg-info">
+                <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link text-white" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link text-white" href="#">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="#">Experience</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link text-white" href="#">Contact me</a>
+                      </li>
+                </ul>
+                </div>
+              </nav>
+        </div>
+    </div>
+</header>
